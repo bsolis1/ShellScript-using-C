@@ -1,0 +1,30 @@
+CMSC 421 Homework 1 Grade
+Total Possible Points: 70
+
+Student: bsolis1@umbc.edu
+GitHub Username: bsolis1
+
+Git include README with "useful" comments (2 points)          : 2
+Code can be compiled by calling `make` (5 points)             : 5
+Read the file lines and parse the commands (10 points)        : 10
+Run the commands (5 points)                                   : 5
+Fork (5 points)                                               : 5
+Check `cd` command (2 points)                                 : 2
+Handling the case when file fails to open (2 points)          : 2
+Handling memory allocation exception (2 points)               : 2
+Handling exception failure in the child process (2 points)    : 1
+Handling the `exit` command (2 points)                        : 2
+Handling the end of file (3 points)                           : 3
+Reset for the new command line (2 points)                     : 2
+Code correctly runs for `test_simple.txt` (2 points)          : 2
+Code correctly runs for `test_exit.txt` (2 points)            : 2
+Code correctly runs for `test_error.txt` (2 points)           : 1
+Code correctly runs for `test_long.txt` (2 points)            : 2
+                                                              ---------
+Project Grade                                                 : 48
+Late penalty, if applicable                                   : 0
+                                                              ---------
+Final Homework 1 Grade                                        : 48
+
+Comments from the TA:
+---------------------

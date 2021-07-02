@@ -1,0 +1,7 @@
+ls
+gcc --version
+/bin/ls
+/bin/echo Hello World
+ls
+exit
+ls
